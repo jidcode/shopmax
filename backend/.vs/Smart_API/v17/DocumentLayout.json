@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP ELITEBOOK 850 G3\\Desktop\\Smart\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7F0562-B667-4EE8-AEBB-525264CB5685}|Smart_API\\Smart_API.csproj|c:\\users\\hp elitebook 850 g3\\desktop\\smart\\backend\\smart_api\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7F0562-B667-4EE8-AEBB-525264CB5685}|Smart_API\\Smart_API.csproj|solutionrelative:smart_api\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7F0562-B667-4EE8-AEBB-525264CB5685}|Smart_API\\Smart_API.csproj|c:\\users\\hp elitebook 850 g3\\desktop\\smart\\backend\\smart_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7F0562-B667-4EE8-AEBB-525264CB5685}|Smart_API\\Smart_API.csproj|solutionrelative:smart_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7F0562-B667-4EE8-AEBB-525264CB5685}|Smart_API\\Smart_API.csproj|c:\\users\\hp elitebook 850 g3\\desktop\\smart\\backend\\smart_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7F0562-B667-4EE8-AEBB-525264CB5685}|Smart_API\\Smart_API.csproj|solutionrelative:smart_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7F0562-B667-4EE8-AEBB-525264CB5685}|Smart_API\\Smart_API.csproj|c:\\users\\hp elitebook 850 g3\\desktop\\smart\\backend\\smart_api\\dtos\\store\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7F0562-B667-4EE8-AEBB-525264CB5685}|Smart_API\\Smart_API.csproj|solutionrelative:smart_api\\dtos\\store\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 850 G3\\Desktop\\Smart\\backend\\Smart_API\\Program.cs",
+              "RelativeDocumentMoniker": "Smart_API\\Program.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 850 G3\\Desktop\\Smart\\backend\\Smart_API\\Program.cs",
+              "RelativeToolTip": "Smart_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:21:49.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 850 G3\\Desktop\\Smart\\backend\\Smart_API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Smart_API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 850 G3\\Desktop\\Smart\\backend\\Smart_API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Smart_API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAGAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:51:10.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 850 G3\\Desktop\\Smart\\backend\\Smart_API\\DTOs\\Store\\StoreDto.cs",
+              "RelativeDocumentMoniker": "Smart_API\\DTOs\\Store\\StoreDto.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 850 G3\\Desktop\\Smart\\backend\\Smart_API\\DTOs\\Store\\StoreDto.cs",
+              "RelativeToolTip": "Smart_API\\DTOs\\Store\\StoreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:57:40.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 850 G3\\Desktop\\Smart\\backend\\Smart_API\\Controllers\\StoresController.cs",
+              "RelativeDocumentMoniker": "Smart_API\\Controllers\\StoresController.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 850 G3\\Desktop\\Smart\\backend\\Smart_API\\Controllers\\StoresController.cs",
+              "RelativeToolTip": "Smart_API\\Controllers\\StoresController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:31:04.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
